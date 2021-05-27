@@ -1,2 +1,2 @@
 # UOC
-Notebooks and .py related to the UOC's Pyhton Course
+Notebooks and one project related to the UOC's Pyhton Course
